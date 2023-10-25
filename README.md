@@ -1,2 +1,2 @@
-# Algoritmos-e-Programa-o
-Códigos feitos na aula de algoritmos e programação
+# Algoritmos-e-Programação
+Códigos feitos na aula de algoritmos e programação, da UFSC.
